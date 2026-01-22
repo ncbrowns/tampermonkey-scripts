@@ -7,7 +7,7 @@
 // @match        https://virginiatech.sportswar.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=sportswar.com
 // @grant        GM_addStyle
-// @version      1
+// @version      2
 // ==/UserScript==
 
 // Add various CSS styles.
