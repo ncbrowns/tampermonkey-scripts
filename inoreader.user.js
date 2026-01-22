@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name                InoReader Enhancer
-// @version             2
+// @version             3
 // @description         Miscellaneous enchancements for Inoreader.
 // @match               https://inoreader.com/*
 // @match               https://www.inoreader.com/*

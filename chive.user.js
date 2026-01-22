@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         The Chive
-// @version      2
+// @version      3
 // @description  Miscellaneous enhancements for The Chive.
 // @match        http://thechive.com/*
 // @match        https://thechive.com/*

@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         TechSideline
-// @version      2
+// @version      3
 // @description  Miscellaneous enchancements for Tech Sideline.
 // @match        https://virginiatech.sportswar.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=sportswar.com
