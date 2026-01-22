@@ -1,14 +1,11 @@
 // ==UserScript==
 // @name         The Chive
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @version      2
+// @description  Miscellaneous enhancements for The Chive.
 // @match        http://thechive.com/*
 // @match        https://thechive.com/*
 // @grant        GM_addStyle
 // @run-at       document-end
-// @version      1
 // ==/UserScript==
 /* jshint -W097 */
 'use strict';

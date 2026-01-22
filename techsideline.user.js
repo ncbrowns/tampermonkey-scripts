@@ -1,13 +1,10 @@
 // ==UserScript==
 // @name         TechSideline
-// @namespace    http://tampermonkey.net/
-// @version      2024-09-03
-// @description  try to take over the world!
-// @author       You
+// @version      2
+// @description  Miscellaneous enchancements for Tech Sideline.
 // @match        https://virginiatech.sportswar.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=sportswar.com
 // @grant        GM_addStyle
-// @version      2
 // ==/UserScript==
 
 // Add various CSS styles.

@@ -1,12 +1,11 @@
 // ==UserScript==
 // @name                InoReader Enhancer
-// @namespace           http://ncbrowns.com
+// @version             2
 // @description         Miscellaneous enchancements for Inoreader.
 // @match               https://inoreader.com/*
 // @match               https://www.inoreader.com/*
 // @grant               GM_openInTab
 // @grant               GM_addStyle
-// @version             1
 // ==/UserScript==
 
 // Returns the currently selected article.

@@ -1,13 +1,10 @@
 // ==UserScript==
 // @name         YouTube 1.5x
-// @namespace    http://tampermonkey.net/
-// @version      2025-10-15
-// @description  try to take over the world!
-// @author       You
+// @version      2
+// @description  Play YouTube videos at 1.5x by default.
 // @match        https://www.youtube.com/watch?*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
-// @vesion       1
 // ==/UserScript==
 
 //var setSpeedCallbackID;
