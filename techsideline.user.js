@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         TechSideline
-// @version      4
+// @version      5
 // @description  Miscellaneous enchancements for Tech Sideline.
 // @match        https://techsideline.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=techsideline.com
+// @icon         https://techsideline.com/static/apple-touch-icon.png
 // @grant        GM_addStyle
 // ==/UserScript==
 
