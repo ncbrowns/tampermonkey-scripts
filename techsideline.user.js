@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         TechSideline
-// @version      5
+// @version      6
 // @description  Miscellaneous enchancements for Tech Sideline.
 // @match        https://techsideline.com/*
 // @icon         https://techsideline.com/static/apple-touch-icon.png
@@ -24,7 +24,7 @@ var css =
     "div.thread-starter { padding-top: 3px !important } " +
 
     // Shrink the logo to avoid extra space on the page.
-    "img[src*='tsl_logo_circular_337px_wide.png'] { transform: scale(0.7) } " +
+    "img[src*='tsl_logo_circular_337px_wide.png'] { transform: scale(0.5) } " +
 
     "";
 GM_addStyle(css);
