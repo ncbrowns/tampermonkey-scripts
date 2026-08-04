@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         TechSideline
-// @version      6
+// @version      7
 // @description  Miscellaneous enchancements for Tech Sideline.
 // @match        https://techsideline.com/*
 // @icon         https://techsideline.com/static/apple-touch-icon.png
@@ -12,7 +12,7 @@ var css =
     // Hide ad placeholders.
     "div:has(.container [data-ad-slot-key='above_header']) { display: none !important } " +
     "div:has(>a[rel*='sponsored']) { display: none !important } " +
-    "div:has(>div.freestar-ad-slot) { display: none !important } " +
+    "div:has(>div.freestar-ad-slot[data-ad-slot-key^='board_feed']) { display: none !important } " +
 
     // Make the sticky posts take less vertical space.
     "div:has(>span[title='Sticky Post']) { padding-top: 3px !important; padding-bottom: 3px !important } " +
